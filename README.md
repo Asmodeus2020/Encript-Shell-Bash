@@ -6,7 +6,7 @@ Alat Untuk Encript script shell bash
 ```java
 $ pkg install nodejs
 $ npm install -g bash-obfuscate
-$ git clone https://github.com/muhammadfathul/Encript-Shell-Bash
+$ git clone https://github.com/ArroKM/Encript-Shell-Bash
 $ cd Encript-Shell-Bash
 $ python2 encript.py
 ```
